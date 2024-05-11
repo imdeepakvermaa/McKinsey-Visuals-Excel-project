@@ -1,6 +1,6 @@
 
+# **<u>McKinsey Visuals Data Visualization Project</u>**
 
-**McKinsey Visuals Data Visualization Project**
 
 This Excel project leverages data extracted from McKinsey Visuals to create insightful visualizations on three key aspects:
 
