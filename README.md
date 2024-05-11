@@ -5,8 +5,7 @@
 This Excel project leverages data extracted from McKinsey Visuals to create insightful visualizations on three key aspects:
 
 **Technology's Impact on Business Transformations:** Through interactive charts and graphs, the project highlights how technology plays a pivotal role, contributing up to 71 per cent of the value derived from business transformations across various sectors.
-![Business Transformation](McKinsey-Visuals-Excel-project
-/Business transformation.png)
+![Business Transformation](Business%20transformation.png)
 
 
 
